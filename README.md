@@ -40,6 +40,6 @@ A experiência mostrou que a IA funciona como uma ferramenta de criação e apoi
 
 ## 📁 Arquivos do Projeto
 
-- `anuncio_nexa_outdoor.png` — peça visual criada com IA
-- `ebook_nexa_outdoor.pdf` — e-book desenvolvido para apresentar o projeto
-- `prompts.md` — prompts utilizados durante o processo
+- [🖼️ Ver anúncio criado com IA](./anuncio_nexa_outdoor.png)
+- [📘 Abrir mini e-book do projeto](./ebook_nexa_outdoor.pdf)
+- [🤖 Ver prompts utilizados](./prompts.md)
